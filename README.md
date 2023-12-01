@@ -7,7 +7,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-orange)
 ![Torch](https://img.shields.io/badge/torch-purple)
 ![Torchvision](https://img.shields.io/badge/torchvision-gray)
-![Lottery Ticket Hypothesis](https://img.shields.io/badge/Lottery%20ticket%20hypothesis-red)
+![Lottery Ticket Hypothesis](https://img.shields.io/badge/Lottery%20ticket%20hypothesis-green)
   
 </div>
 
